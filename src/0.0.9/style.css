@@ -1,4 +1,4 @@
-body, .session-authentication {background: #31383f !important; color: #fff !important; font-family: 'Karla', sans-serif !important;}
+body, .session-authentication {background: #31383f !important; color: #fff !important;}
 a {color:#fff !important}
 .link-gray-dark {color:#fff !important;text-decoration:none !important;}
 .btn-link:hover {color:#fff !important; text-decoration:underline !important;}
@@ -65,10 +65,9 @@ table.files td {border:0px !important;}
 .Box-row--hover-blue:hover {background:#2d333a !important;}
 .overflow-hidden {background:transparent !important;}
 .Box-body {background:#272c32 !important; border:2px solid #272c32 !important;border-radius:3px !important;}
-.markdown-body {background:#272c32 !important;color:#fff !important;border-radius:3px; font-family: 'Karla', sans-serif !important;padding:2vh 1.5vw !important;}
-.markdown-body pre {background:#31383f !important;color:#fff !important;font-family: 'Karla', sans-serif !important;}
-.markdown-body pre code {font-family: 'Karla', sans-serif !important;}
-.blob-code-inner,.blob-num, .blob-code-inner span, .final-path, .follow-list-info, .Counter {color:#fff;font-family: 'Karla', sans-serif !important;}
+.markdown-body {background:#272c32 !important;color:#fff !important;border-radius:3px;padding:2vh 1.5vw !important;}
+.markdown-body pre {background:#31383f !important;color:#fff !important;}
+.blob-code-inner,.blob-num, .blob-code-inner span, .final-path, .follow-list-info, .Counter {color:#fff;}
 ::-webkit-scrollbar {width:5px;height:5px;}
 ::-webkit-scrollbar-track {background:#fff;}
 ::-webkit-scrollbar-thumb {background:#24292e;}
