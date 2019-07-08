@@ -1,17 +1,3 @@
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/top.png">
-
-![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg?label=Users) ![Mozilla Add-on](https://img.shields.io/amo/v/gitark.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/imfunniee/gitark.svg)
-
-### Download
-
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Download for Chrome](https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm)                                                                                                          | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitark/)                                                                                                                                |
-
-
-### Preview
-
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/1.png">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/2.png">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/3.png">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/4.png">
+GitArk: BurritoSOFTWARE Edition
+----
+To install, download Stylus for chrome [here]<https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en> and then right click and open the Styles manager. Click "Write New Style" on the left, paste in the CSS from [this link]<https://github.com/burritosoftware/gitark/tree/master/src/0.0.9>, make sure "Applies to" is set to URLs on this domain and "github.com", then click Save at the top right. Installed!
